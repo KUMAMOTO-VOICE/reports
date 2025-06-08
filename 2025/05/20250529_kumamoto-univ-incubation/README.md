@@ -173,11 +173,8 @@
 ## 写真・資料
 
 ### イベントの様子
-![スピーカー](./photos/speaker.jpg)
+![スピーカー](./photos/speaker.png)
 *熊本大学インキュベーションラボラトリでの勉強会*
-
-![ディスカッションの様子](./photos/discussion.jpg)
-*幸山元市長を交えた活発なディスカッション*
 
 ### 配布資料
 - [プルラリティ概要資料](./materials/plurality_overview.pdf)
