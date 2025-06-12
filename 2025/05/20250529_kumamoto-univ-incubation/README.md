@@ -27,7 +27,7 @@
 
 ### 智基/Tomoki氏
 - https://x.com/tomolld
--
+
 ### 幸山政史氏（元熊本市長）
 - https://x.com/Kohyama_office
 
@@ -168,16 +168,19 @@
 
 - [デジタル民主主義](https://dd2030.org/)
 - [NotebookLM:デジタル民主主義リサーチ](https://notebooklm.google.com/notebook/dbac1650-ae8a-427e-99c4-54dc77a51680)
-- [グレン・ワイル氏関連資料](URL)
+- [グレン・ワイル氏関連資料](https://www.youtube.com/watch?v=gTWqbdfTc2g)
+- [オードリー・タンインタービュー](https://www.youtube.com/watch?v=yIepQ8UIHRw)
+- [Plurality書籍](https://www.amazon.co.jp/dp/4909044574)
 
 ## 写真・資料
 
 ### イベントの様子
 ![スピーカー](./photos/speaker.png)
+
 *熊本大学インキュベーションラボラトリでの勉強会*
 
 ### 配布資料
-- [プルラリティ概要資料](./materials/plurality_overview.pdf)
+[WIP] - [プルラリティ概要資料](./materials/plurality_overview.pdf)
 
 ## 参加者の感想
 
